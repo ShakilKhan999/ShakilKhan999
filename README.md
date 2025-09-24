@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shakil Khan  
 
-🚀 A passionate **Flutter Developer** (3+ years) building scalable mobile apps with **modern UI, AR, AI integration, and real-time features**.  
+🚀 A passionate **Flutter Developer** (2+ years) building scalable mobile apps with **modern UI, AR, AI integration, and real-time features**.  
 I love solving **real-world problems with Flutter**, exploring **state management (GetX, Provider, Riverpod)**, and keeping apps optimized for **Android, iOS, and Web**.  
 
 ---
