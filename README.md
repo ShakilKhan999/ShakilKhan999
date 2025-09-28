@@ -25,7 +25,7 @@ I love solving **real-world problems with Flutter**, exploring **state managemen
 
 ---
 
-### 2️⃣ **Pagenati – E-commerce with Pagination**
+### 2️⃣ **Pagenati – E-commerce with Pagination(Ongoing)**
 - **Problem:** Large product catalog slowed browsing & caused crashes.  
 - **Solution:** Implemented **infinite scroll pagination** with GetX + API optimization.  
 - **Impact:** Smooth browsing of thousands of products, improved performance.  
@@ -55,21 +55,8 @@ I love solving **real-world problems with Flutter**, exploring **state managemen
 - **Impact:** Boosted user confidence, improved shopping conversion rates.  
 🔗 [GitHub Repo](#)
 
----
 
-### 6️⃣ **Stop Vaping – Health Support App**
-- **Problem:** Users struggled to reduce vaping gradually.  
-- **Solution:** Built **phase-based progress tracking, daily puff limits, craving support (MCQs, tips, videos)** with GetX + SharedPreferences.  
-- **Impact:** Encouraged healthier habits, gamified quitting journey.  
-🔗 [GitHub Repo](#)
 
----
-
-### 7️⃣ **WooCommerce Flutter Store**
-- **Problem:** Store owners wanted mobile app synced with WooCommerce.  
-- **Solution:** Integrated **WooCommerce REST APIs + GetX** with smooth product listings.  
-- **Impact:** Full-featured shopping app, client-ready.  
-🔗 [GitHub Repo](#)
 
 ---
 
