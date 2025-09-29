@@ -91,7 +91,7 @@ Here’s your final **Featured Projects** section to paste directly into your Gi
 
 ---
 
-### 8️⃣ **AI Chat App (Gemini API)**
+### 5️⃣ **AI Chat App (Gemini API)**
 
 * **Problem:** Needed multi-feature AI chat (chat, image query, PDF QnA).
 * **Solution:** Built **modular app** using `flutter_gemini`, `dash_chat_2`, `shared_preferences`, `get`.
