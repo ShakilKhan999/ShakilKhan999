@@ -86,7 +86,7 @@ Here’s your final **Featured Projects** section to paste directly into your Gi
   * Integrated support to **load & render `.glb` 3D models** in Flutter.
   * Enabled **real-time AR visualization** of furniture in real spaces.
 * **Impact:** Boosted user confidence, improved shopping conversion rates.
-  🔗 [https://github.com/ShakilKhan999/AR-Furniture-Try-On](#)
+  🔗 [[GitHub Repo](https://github.com/ShakilKhan999/AR-Furniture-Try-On)](#)
 
 ---
 
