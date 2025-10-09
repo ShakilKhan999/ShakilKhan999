@@ -32,7 +32,7 @@ Here’s your final **Featured Projects** section to paste directly into your Gi
   * Added **pagination for long lists** to improve performance.
   * Integrated and optimized **most of the REST APIs**.
 * **Impact:** Smooth real-time cross-role communication, scalable for new features.
-  🔗 [GitHub Repo](#) | 📹 [Demo Video](#)
+  🔗 [[GitHub Repo](https://github.com/ShakilKhan999/Baxton-Worker_Client_Admin_management)](#) 
 
 ---
 
@@ -47,7 +47,6 @@ Here’s your final **Featured Projects** section to paste directly into your Gi
   * Built **role-based login for 2 roles** (customer & admin).
   * Implemented **other essential e-commerce APIs** (products, categories, etc.).
 * **Impact:** Smooth browsing of thousands of products, improved checkout flow.
-  🔗 [GitHub Repo](#)
 
 ---
 
@@ -61,7 +60,7 @@ Here’s your final **Featured Projects** section to paste directly into your Gi
   * Integrated **Apple Watch HealthKit data** into Flutter.
   * Designed and implemented the **core feature of health data reading & syncing**.
 * **Impact:** Personalized health insights, reliable cross-device wellness tracking.
-  🔗 [GitHub Repo](#)
+  🔗 [[GitHub Repo](https://github.com/ShakilKhan999/Apple-Watch-Health-Monitoring-App)](#)
 
 ---
 
@@ -74,7 +73,7 @@ Here’s your final **Featured Projects** section to paste directly into your Gi
   * Built reusable **UI modules for parking reservations and flows**.
   * Focused on **fast iterations** for client testing.
 * **Impact:** Faster development, successful early client validation.
-  🔗 [GitHub Repo](#)
+  🔗 [[GitHub Repo](https://github.com/ShakilKhan999/Tabin-Instant-Parking-App)](#)
 
 ---
 
@@ -87,36 +86,41 @@ Here’s your final **Featured Projects** section to paste directly into your Gi
   * Integrated support to **load & render `.glb` 3D models** in Flutter.
   * Enabled **real-time AR visualization** of furniture in real spaces.
 * **Impact:** Boosted user confidence, improved shopping conversion rates.
-  🔗 [GitHub Repo](#)
+  🔗 [https://github.com/ShakilKhan999/AR-Furniture-Try-On](#)
 
 ---
 
-### 5️⃣ **AI Chat App (Gemini API)**
+Perfect 👍 — here’s how you can **add your new project (DTRoutes Admin Panel)** cleanly to your existing README under the “🏆 Featured Projects” section.
+I’ll match the exact style and tone of your current list so it blends perfectly.
 
-* **Problem:** Needed multi-feature AI chat (chat, image query, PDF QnA).
-* **Solution:** Built **modular app** using `flutter_gemini`, `dash_chat_2`, `shared_preferences`, `get`.
+---
+
+### 6️⃣ **DTRoutes Admin Panel (Flutter Web)**
+
+* **Problem:** Needed a centralized dashboard to manage routes and app data.
+* **Solution:** Built a **Flutter Web-based admin panel** with Firebase integration and deployed it on **cPanel** for easy access.
 * **My Contribution:**
 
-  * Developed **AI chat with Gemini API**.
-  * Added support for **PDF QnA, image queries, and chat history**.
-  * Implemented **modular architecture** with GetX for scalability.
-* **Impact:** Flexible AI-powered chat app with history & media support.
-  🔗 [GitHub Repo](#)
+  * Developed **admin panel features** for managing data and routes.
+  * Integrated **Firebase for real-time data sync**.
+  * **Deployed** the project on **cPanel** for production access.
+* **Impact:** Enabled efficient route management through a modern web dashboard.
+  🔗 [**[Live Demo](https://dtroutes.com/)**](#)
+
+---
+
+✅ Just paste that snippet right after your **AI Chat App (Gemini API)** section.
+
+If you want, I can also reorder all projects chronologically or highlight your **top 3** with badges like “⭐ Featured” — would you like me to do that?
 
 ---
 
 ## 🛠️ Tech Stack
 - **Frameworks:** Flutter, Dart  
-- **State Management:** GetX, Provider, Riverpod  
+- **State Management:** GetX, Provider,  
 - **Backend:** Firebase, Supabase, WooCommerce API, REST  
-- **Other:** Hive, SharedPreferences, WebSockets, ARKit, HealthKit  
+- **Other:** SQFlite, SharedPreferences, WebSockets, ARKit, HealthKit  
 - **Tools:** VSCode, Git, Postman, Figma  
-
----
-
-## 📊 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShakilKhan999&layout=compact&theme=radical)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ShakilKhan999&show_icons=true&theme=radical)  
 
 ---
 
